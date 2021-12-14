@@ -1,4 +1,4 @@
-# Repositório - dio-desafio-github
+# Repositório - Dio-Desafio-Github
 Desafio de projeto Dio - github.
 
 ## Links úteis
